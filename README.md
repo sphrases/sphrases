@@ -74,8 +74,11 @@ These are some technologies I am familiar with:
 
 [![Sphrases's github stats](https://github-readme-stats.vercel.app/api?username=sphrases)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Sphrases's Codewars Badge](https://www.codewars.com/users/sphrases/badges/large)](https://www.codewars.com/users/sphrases)
-
+<img
+  src="https://www.codewars.com/users/sphrases/badges/large"
+  alt="codewars"
+  width="auto"
+  height="40"
+/>
 
 
