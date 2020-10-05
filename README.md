@@ -71,7 +71,7 @@ These are some technologies I am familiar with:
   width="40"
   height="40"
 />
-
+<br/><br/><br/>
 [![Sphrases's github stats](https://github-readme-stats.vercel.app/api?username=sphrases)](https://github.com/anuraghazra/github-readme-stats)
 
 <img
