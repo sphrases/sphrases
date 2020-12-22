@@ -72,7 +72,7 @@ These are some technologies I am familiar with:
   height="40"
 />
 <br/><br/><br/>
-[![Sphrases's github stats](https://github-readme-stats.vercel.app/api?username=sphrases)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Sphrases's github stats](https://github-readme-stats.vercel.app/api?username=sphrases)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <img
   src="https://www.codewars.com/users/sphrases/badges/large"
