@@ -2,9 +2,8 @@ Hello there!
 My name is Sphrases and I am a developer from Germany. 
 
 Currently I am based in Hamburg and working as a React developer at [Padis](https://padis.io).
-
+<!-- 
 These are some technologies I am familiar with: 
-
 <img
   src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
   alt="react"
@@ -71,7 +70,7 @@ These are some technologies I am familiar with:
   width="40"
   height="40"
 />
-<br/><br/><br/>
+<br/><br/><br/> -->
 <!-- [![Sphrases's github stats](https://github-readme-stats.vercel.app/api?username=sphrases)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <img
